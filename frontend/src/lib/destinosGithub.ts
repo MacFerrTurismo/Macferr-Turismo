@@ -6,7 +6,7 @@ import { API_URL, normalizarDestino, type Destino } from './api';
  *
  * Para apontar para outra branch/arquivo (ex.: testes), defina NEXT_PUBLIC_DESTINOS_JSON_URL antes do build.
  */
-export const DESTINOS_JSON_URL = 'https://raw.githubusercontent.com/LucasLoopsT/Macferr-Turismo/deploy/backend/seed/destinos.json';
+export const DESTINOS_JSON_URL = 'https://raw.githubusercontent.com/MacFerrTurismo/Macferr-Turismo/deploy/backend/seed/destinos.json';
 
 /**
  * O raw.githubusercontent.com guarda cada URL em cache por ~5 minutos. Acrescentar um número que muda a cada
