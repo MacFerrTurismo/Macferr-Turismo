@@ -31,15 +31,23 @@
   },
   {
     "id": "7d1a3c5e-4b2f-4a60-9f31-0c8e6a2b1d03",
-    "titulo": "Cruzeiro pela Costa Brasileira",
-    "descricao": "Sete noites a bordo, saindo de Santos, com paradas em Búzios, Ilhabela e Porto Belo.",
-    "data": "Fevereiro 2025",
+    "titulo": "Trem de Guararema",
+    "descricao": "Venha passear de trem e se alimentar com comida boa e vinho a vontade!",
+    "data": "05/12/2026",
     "viajantes": 40,
-    "categoria": "Cruzeiro",
-    "imagem": "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=1000&q=80",
-    "status": "Finalizada",
-    "preco": "",
-    "tags": [],
-    "fotos": []
+    "categoria": "Nacional",
+    "imagem": "https://abpfsuldeminas.com/wp-content/uploads/2021/07/7202-fga-web.jpg",
+    "status": "Disponivel",
+    "preco": "400",
+    "tags": [
+      "Excurssão",
+      "Ida e Volta"
+    ],
+    "fotos": [
+      "https://abpfsuldeminas.com/wp-content/uploads/2021/07/dsc_1052ee-site.jpg",
+      "https://www.essemundoenosso.com.br/wp-content/uploads/2024/01/bar.jpg",
+      "https://www.essemundoenosso.com.br/wp-content/uploads/2024/01/estacao-01.jpg",
+      "https://abpfsuldeminas.com/wp-content/uploads/2021/07/7202-fga-web.jpg"
+    ]
   }
 ]
