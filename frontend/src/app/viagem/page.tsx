@@ -89,7 +89,7 @@ function Conteudo() {
   const proxima = viagem.status === 'Disponivel' || esgotada;
   const tags = Array.from(new Set([viagem.categoria, ...viagem.tags].filter(Boolean)));
   // Galeria só nas viagens realizadas; próximas viagens nunca exibem o carrossel.
-  const mostrarGaleria = viagem.status === 'Finalizada' && viagem.fotos.length > 0;
+  const mostrarGaleria = Array.isArray(viagem.fotos) && viagem.fotos.length > 0;
 
   return (
     <>
