@@ -32,13 +32,13 @@
   {
     "id": "7d1a3c5e-4b2f-4a60-9f31-0c8e6a2b1d03",
     "titulo": "Trem de Guararema",
-    "descricao": "Venha passear de trem e se alimentar com comida boa e vinho a vontade!",
+    "descricao": "Prepare-se para viver um passeio diferente e cheio de encanto a bordo do tradicional Trem de Guararema!\n\nDesfrute de uma viagem especial sobre trilhos, apreciando as belas paisagens pelo caminho e aproveitando uma experiência all inclusive, com comidas e bebidas servidas durante o trajeto.\n\nUm passeio perfeito para reunir a família, os amigos e viver momentos de descontração, boa gastronomia e diversão!",
     "data": "05/12/2026",
-    "viajantes": 40,
+    "viajantes": 20,
     "categoria": "Nacional",
     "imagem": "https://abpfsuldeminas.com/wp-content/uploads/2021/07/7202-fga-web.jpg",
     "status": "Disponivel",
-    "preco": "400",
+    "preco": "599",
     "tags": [
       "Excurssão",
       "Ida e Volta"
@@ -52,7 +52,11 @@
   },
   {
     "id": "2974b63e-79b6-4c53-ac7e-100ae9e97e36",
+    "titulo": "Poços de Caldas",
+    "descricao": "Prepare-se para conhecer Poços de Caldas, uma das cidades mais charmosas de Minas Gerais! Um destino perfeito para relaxar, passear e aproveitar momentos especiais.\n\nConheça suas belas paisagens, pontos turísticos encantadores, fontes de águas termais e toda a hospitalidade mineira. Uma oportunidade de desfrutar de um passeio agradável, conhecer novos lugares e aproveitar o melhor de Minas Gerais!",
+    "data": "29/11/2026",
     "viajantes": 30,
+    "categoria": "Nacional",
     "imagem": "https://blog.nacionalinn.com.br/wp-content/uploads/2022/05/Por-que-visitar-Pocos-de-Caldas-10-motivos-incriveis__.webp",
     "status": "Disponivel",
     "preco": "1500",
@@ -61,10 +65,6 @@
       "Café",
       "Almoço"
     ],
-    "fotos": [],
-    "titulo": "Poços de Caldas",
-    "descricao": "Prepare-se para conhecer Poços de Caldas, uma das cidades mais charmosas de Minas Gerais! Um destino perfeito para relaxar, passear e aproveitar momentos especiais.\n\nConheça suas belas paisagens, pontos turísticos encantadores, fontes de águas termais e toda a hospitalidade mineira. Uma oportunidade de desfrutar de um passeio agradável, conhecer novos lugares e aproveitar o melhor de Minas Gerais!",
-    "data": "29/11/2026",
-    "categoria": "Nacional"
+    "fotos": []
   }
 ]
