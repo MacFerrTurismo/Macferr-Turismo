@@ -49,5 +49,22 @@
       "https://www.essemundoenosso.com.br/wp-content/uploads/2024/01/estacao-01.jpg",
       "https://abpfsuldeminas.com/wp-content/uploads/2021/07/7202-fga-web.jpg"
     ]
+  },
+  {
+    "id": "2974b63e-79b6-4c53-ac7e-100ae9e97e36",
+    "viajantes": 30,
+    "imagem": "https://blog.nacionalinn.com.br/wp-content/uploads/2022/05/Por-que-visitar-Pocos-de-Caldas-10-motivos-incriveis__.webp",
+    "status": "Disponivel",
+    "preco": "1500",
+    "tags": [
+      "Pensão Completa",
+      "Café",
+      "Almoço"
+    ],
+    "fotos": [],
+    "titulo": "Poços de Caldas",
+    "descricao": "Prepare-se para conhecer Poços de Caldas, uma das cidades mais charmosas de Minas Gerais! Um destino perfeito para relaxar, passear e aproveitar momentos especiais.\n\nConheça suas belas paisagens, pontos turísticos encantadores, fontes de águas termais e toda a hospitalidade mineira. Uma oportunidade de desfrutar de um passeio agradável, conhecer novos lugares e aproveitar o melhor de Minas Gerais!",
+    "data": "29/11/2026",
+    "categoria": "Nacional"
   }
 ]
