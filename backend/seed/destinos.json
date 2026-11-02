@@ -1,18 +1,5 @@
 [
   {
-    "id": "7d1a3c5e-4b2f-4a60-9f31-0c8e6a2b1d01",
-    "titulo": "Praias em Natal",
-    "descricao": "Seis dias na ilha mais protegida do país, com mergulho, trilhas e o pôr do sol no Forte dos Remédios.",
-    "data": "Dezembro 2025",
-    "viajantes": 18,
-    "categoria": "Nacional",
-    "imagem": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1000&q=80",
-    "status": "Finalizada",
-    "preco": "",
-    "tags": [],
-    "fotos": []
-  },
-  {
     "id": "7d1a3c5e-4b2f-4a60-9f31-0c8e6a2b1d02",
     "titulo": "França Clássica",
     "descricao": "Paris, Veneza, Roma e Londres com guia brasileiro, hotéis centrais e tempo livre para passear.",
